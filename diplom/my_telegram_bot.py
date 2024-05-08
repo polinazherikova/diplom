@@ -1,4 +1,3 @@
-import requests
 
 bot_token = '6462919475:AAH6Y9JFKomqiIjKBa4kZNcSD7FnvHBHuFs'
 webhook_url = ('https://ubdbeton.com/bot/webhook/')
